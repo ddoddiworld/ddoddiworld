@@ -8,6 +8,5 @@
 </div>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ddoddiworld)](https://velog.io/@ddoddiworld)
-[https://velog-readme-stats.vercel.app/api/redirect?name=ddoddiworld&tag=github](https://velog-readme-stats.vercel.app/api/redirect?name=ddoddiworld&tag=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddoddiworld&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
