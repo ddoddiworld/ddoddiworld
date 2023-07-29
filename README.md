@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ddoddi_world)](https://velog.io/@ddoddi_world)
-[https://velog-readme-stats.vercel.app/api/redirect?name=ddoddi_world&tag=github](https://velog-readme-stats.vercel.app/api/redirect?name=ddoddi_world&tag=github)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ddoddiworld)](https://velog.io/@ddoddiworld)
+[https://velog-readme-stats.vercel.app/api/redirect?name=ddoddiworld&tag=github](https://velog-readme-stats.vercel.app/api/redirect?name=ddoddiworld&tag=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddoddiworld&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
