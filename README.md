@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&animation=fadeIn&section=header&fontColor=ffffff&text=Emily's%profile💻✨&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&animation=fadeIn&section=header&fontColor=ffffff&text=💻✨&fontAlign=70)
