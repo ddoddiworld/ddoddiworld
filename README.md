@@ -10,18 +10,15 @@
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-
+</br>
+</hr>
+</br>
 <div align="center">
     <h2> What's new in ddoddi world ?! 👀</h2>
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ddoddiworld)](https://velog.io/@ddoddiworld)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ddoddiworld)](https://github.com/ddoddiworld/velog-readme-stats)
 </div>
-
-
-  
-
-
-
-
+</br>
+</hr>
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddoddiworld&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
