@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 </br>
-</hr>
+</br>
 </br>
 <div align="center">
     <h2> What's new in ddoddi world ?! 👀</h2>
@@ -19,7 +19,7 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ddoddiworld)](https://github.com/ddoddiworld/velog-readme-stats)
 </div>
 </br>
-</hr>
+</br>
 <div align="center">
     <h2> Most Used Lanuages ⭐️ </h2>
   
