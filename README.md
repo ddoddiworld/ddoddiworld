@@ -16,8 +16,9 @@
 </br>
 <div align="center">
     <h2> What's new in ddoddi world ?! 👀</h2>
+  
+  [![Velog's Card](https://velog-readme-stats.vercel.app/api?name=ddoddiworld)](https://velog.io/@ddoddiworld)
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ddoddiworld)](https://github.com/ddoddiworld/velog-readme-stats)
 </div>
 </br>
 </br>
