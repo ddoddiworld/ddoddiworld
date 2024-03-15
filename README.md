@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&animation=fadeIn&section=header&fontColor=ffffff&text=💻✨&fontAlign=90)
 
-
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=%3E+Hello%2C+I'm+Frontend+Developer!)](https://git.io/typing-svg)
-  
 </div>
 
+</br>
 </br>
 
 <div align="center">
@@ -51,7 +50,6 @@
 
 </br>
 </br>
-</br>
 
 <div align="center">
     <h2> Most Used Lanuages ⭐️ </h2>
@@ -59,7 +57,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddoddiworld&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-</br>
 </br>
 </br>
 
