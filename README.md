@@ -3,12 +3,13 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=99DAA9&background=000000&center=true&vCenter=true&random=false&width=435&lines=%3E+Hello%2C+I'm+Frontend+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=%3E+Hello%2C+I'm+Frontend+Developer!)](https://git.io/typing-svg)
   
 </div>
 
-  </br>
-  </br>
+</br>
+</br>
+</br>
 
 <div align="center">
   <div>
@@ -25,6 +26,7 @@
 
   </br>
   </br>
+  </br>
 
   <div>
     <h2>🗣️ Collaboration tools 👥</h2>
@@ -36,26 +38,33 @@
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   </div>
-
 </div>
+
 </br>
 </br>
 </br>
+
 <div align="center">
     <h2> What's new in ddoddi world ?! 👀</h2>
   
   [![Velog's Card](https://velog-readme-stats.vercel.app/api?name=ddoddiworld)](https://velog.io/@ddoddiworld)
 
 </div>
+
 </br>
 </br>
+</br>
+
 <div align="center">
     <h2> Most Used Lanuages ⭐️ </h2>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddoddiworld&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
 </br>
 </br>
+</br>
+
 <div align="center">
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddoddiworld%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Today&edge_flat=true)](https://hits.seeyoufarm.com)
